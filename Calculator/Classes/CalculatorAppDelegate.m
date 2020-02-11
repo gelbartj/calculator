@@ -3,7 +3,6 @@
 //  Calculator
 //
 //  Created by Jonathan Gelbart on 2/11/11.
-//  Copyright 2011 Stanford University. All rights reserved.
 //
 
 #import "CalculatorAppDelegate.h"
